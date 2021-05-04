@@ -1,6 +1,6 @@
 # Mississippi Delta and Appalachia Stroke Access Analysis
 
-This repository contains data used in "In Appalachia and the Mississippi Delta, Millions Face Long Drives to Stroke Care", a series examining access to stroke care in the Mississippi Delta and Appalachia. The project is a collaboration between KHN and InvestigateTV.
+This repository contains data used in ["In Appalachia and the Mississippi Delta, Millions Face Long Drives to Stroke Care"](https://khn.org/news/article/appalachia-mississippi-delta-stroke-treatment-advanced-care-rural-access/), a story examining access to stroke care in the Mississippi Delta and Appalachia. The project is a collaboration between KHN and InvestigateTV.
 
 Read the [methodology](https://khn.org/news/article/methodology-how-we-reported-on-rural-stroke-care/).
 
